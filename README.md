@@ -17,11 +17,11 @@ The data set is stored in the [Budget.csv](PyBank/Data/budget_data.csv) file and
 *  Python 
 
 
-[Main-prgram](PyBank/main.ipynb)
+[Main-prgram](/PyBank/main.ipynb)
 
 ### **Output**
 
-[Output text file ](PyBank/Output.txt)
+[Output text file ](/PyBank/Output.txt)
 
 
 ---
@@ -39,11 +39,11 @@ The data is stored in csv files - [Menu_data.csv](PyRamen/Data/menu_data.csv) an
 ## **Technology**
 *  Python 
 
-[Main-prgram](PyRamen/main2.ipynb)
+[Main-prgram](/PyRamen/main2.ipynb)
 
 ### **Output**
 
-[Output text file ](PyRamen/Output2.txt)
+[Output text file ](/PyRamen/Output2.txt)
 
 ---
 
