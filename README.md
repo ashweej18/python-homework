@@ -1,5 +1,5 @@
 # **Unit 2 | Homework Assignment: Automate Your Day Job with Python**
---
+---
 ## **PyBank**
 
 ### **Objective**
@@ -17,12 +17,35 @@ The data set is stored in the [Budget.csv](PyBank/Data/budget_data.csv) file and
 *  Python 
 
 
-[Main -python prgram](PyBank/main.ipynb)
+[Main-prgram](PyBank/main.ipynb)
 
 ### **Output**
 
-![Output] (Pybank/PyBank_Output.png)
-![Revenue](Pybank/PyBank_Output.png)
+[Output text file ](PyBank/Output.txt)
+
+
+---
+---
+
+## **PyRamen**
+
+### **Objective**
+Ichiban Ramen has closed it second year of the sales. To analyze how well  business did on a per-product basis.
+
+### **Data**
+
+The data is stored in csv files - [Menu_data.csv](PyRamen/Data/menu_data.csv) and [Sales_data.csv](Pyramen/Data/sales_data.csv)
+
+## **Technology**
+*  Python 
+
+[Main-prgram](PyRamen/main2.ipynb)
+
+### **Output**
+
+[Output text file ](PyRamen/Output2.txt)
+
+---
 
 
 
