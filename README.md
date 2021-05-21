@@ -21,7 +21,8 @@ The data set is stored in the [Budget.csv](PyBank/Data/budget_data.csv) file and
 
 ### **Output**
 
-![PyBank Output](Pybank/PyBank_Output.png)
+![Output] (Pybank/PyBank_Output.png)
+![Revenue](Pybank/PyBank_Output.png)
 
 
 
